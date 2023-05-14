@@ -2,3 +2,9 @@ langchain
 google-generativeai
 google-cloud-aiplatform
 python-dotenv
+sentence-transformers
+openai
+pandas
+cohere
+numpy
+streamlit
